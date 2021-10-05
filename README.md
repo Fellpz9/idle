@@ -1,1 +1,1 @@
-# idle
+Será Desenvolvido dentro do Projeto um jogo, no qual será feito a partir do estilo "idle game" também conhecido como jogos incrementais onde o jogador evolui através de uma moeda de troca, que pode ser recebida de diversas formas, passando assim através do recebimento e troca dessa moeda o enredo progride.
